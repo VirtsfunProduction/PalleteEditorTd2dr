@@ -1,4 +1,4 @@
-# TD2DR Palette Studio (Sonic.EXE: The Disaster 2D Remake)
+# TD2DR Palette editor (Sonic.EXE: The Disaster 2D Remake)
 
 Онлайн редактор палитр персонажей и файлов сохранений `2.bson` для игры **Sonic.EXE: The Disaster 2D Remake (TD2DR)**.
 
@@ -26,14 +26,3 @@ td2dr-palette-editor/
     ├── exetior.png   # Exetior (ID: 42)
     └── exeller.png   # Exeller (ID: 43)
 ```
-
-## 🚀 Как запустить на GitHub Pages
-
-1. Создайте новый публичный репозиторий на [GitHub](https://github.com/new), например `td2dr-palette-editor`.
-2. Загрузите файл `index.html` и папку `sprites/` со всеми изображениями.
-3. Перейдите в **Settings** (Настройки репозитория) -> **Pages** (слева в меню).
-4. В разделе **Build and deployment**:
-   - **Source**: `Deploy from a branch`
-   - **Branch**: `main` (или `master`), папка `/ (root)`
-   - Нажмите **Save**.
-5. Через 1-2 минуты сайт станет доступен по адресу: `https://ВАШ_НИК.github.io/td2dr-palette-editor/`
